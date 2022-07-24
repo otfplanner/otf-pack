@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+.coda.json
+.coda-credentials.json
+node_modules/
+package-lock.json
+patches/
